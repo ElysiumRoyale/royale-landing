@@ -6,7 +6,7 @@ import { Fade } from "react-reveal";
 
 function Lottery() {
 
-    const expiryTimestamp = new Date();
+    const expiryTimestamp = new Date('December 05, 2022 11:00:00');
     expiryTimestamp.setSeconds(expiryTimestamp.getSeconds() + 5400);
 
     const {

@@ -56,7 +56,7 @@ function Footer() {
                 disord
               </h4>
             </a>
-            <a className="flex justify-center items-center flex-col cursor-pointer mx-5">
+            <a className="flex justify-center items-center flex-col cursor-pointer mx-5" target="_blank" href="https://twitter.com/ElysiumRoyale">
               <div className="w-[80px] h-[80px] rounded-full flex justify-center items-center bg-gradient-to-l from-pink to-blue hover:bg-gradient-to-r">
                 <Image
                   src={"/SVG/twitter.svg"}
@@ -69,7 +69,7 @@ function Footer() {
                 twitter
               </h4>
             </a>
-            <a className="flex justify-center items-center flex-col cursor-pointer">
+            <a className="flex justify-center items-center flex-col cursor-pointer" target="_blank" href="https://github.com/ElysiumRoyale">
               <div className="w-[80px] h-[80px] rounded-full flex justify-center items-center bg-gradient-to-l from-pink to-blue hover:bg-gradient-to-r">
                 <Image
                   src={"/SVG/github.svg"}
