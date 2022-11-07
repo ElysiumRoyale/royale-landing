@@ -22,10 +22,11 @@ function Hero() {
             <br /> Finance meets
             <br /> Gambling
           </h1>
-
-          <button className="w-[250px] h-[65px] bg-gradient-to-r from-pink to-blue hover:animate-bounce text-white text-[16px] leading-[18px] rounded">
-            Launch App
-          </button>
+          <a target="_blank" href="https://app.elysiumroyale.finance/">
+            <button className="w-[250px] h-[65px] bg-gradient-to-r from-pink to-blue hover:animate-bounce text-white text-[16px] leading-[18px] rounded">
+              Launch App
+            </button>
+          </a>
         </div>
       </Fade>
     </div>
