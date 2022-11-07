@@ -43,7 +43,7 @@ function Footer() {
 
           {/* Right */}
           <div className="flex justify-center items-center md:mt-0 mt-10">
-            <a className="flex justify-center items-center flex-col cursor-pointer">
+            <a className="flex justify-center items-center flex-col cursor-pointer" target="_blank" href="https://discord.gg/P3zNSj3Esc">
               <div className="w-[80px] h-[80px] rounded-full flex justify-center items-center bg-gradient-to-l from-pink to-blue hover:bg-gradient-to-r">
                 <Image
                   src={"/SVG/discord.svg"}
