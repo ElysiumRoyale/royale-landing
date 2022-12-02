@@ -14,15 +14,11 @@ function About() {
             About us
           </h3>
           <h1 className="font-Ubuntu font-bold text-white md:text-[65px] sm:text-[50px] text-[44px] md:leading-[70px] sm:leading-[58px] leading-[46px] my-10">
-            Elysium Royale,
-            <br />
-            Gambling in Crypto
+            Casino on Dex
           </h1>
 
           <p className="text-[22px] text-white leading-[30px] tracking-[50%] font-Ubuntu font-medium">
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-            nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
-            erat.
+            Trade and Earn Royal tokens, and use them as chips in the Casino
           </p>
         </div>
       </div>

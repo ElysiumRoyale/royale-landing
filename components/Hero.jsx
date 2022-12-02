@@ -17,13 +17,13 @@ function Hero() {
 
           {/* Heading */}
           <h1 className="font-Ubuntu font-bold text-white md:text-[65px] sm:text-[50px] text-[44px] md:leading-[70px] sm:leading-[58px] leading-[46px] mt-24 mb-12">
-            Where
-            <br /> Decentralized
-            <br /> Finance meets
-            <br /> Gambling
+            <br /> Decentralized Casino
           </h1>
+          <p className="text-[22px] text-white leading-[30px] tracking-[50%] font-Ubuntu font-medium">
+            Play, Trade and Earn on Elysium Royale
+          </p>
           <a target="_blank" href="https://app.elysiumroyale.finance/">
-            <button className="w-[250px] h-[65px] bg-gradient-to-r from-pink to-blue hover:animate-bounce text-white text-[16px] leading-[18px] rounded">
+            <button className="w-[250px] h-[65px] bg-gradient-to-r from-pink to-blue hover:animate-bounce text-white text-[16px] leading-[18px] rounded mt-24">
               Launch App
             </button>
           </a>
